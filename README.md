@@ -15,8 +15,7 @@
 A portfolio-dynamic website project
 
 
-## How This Project Benefit Me?
-Learn More About The dynamic website and it's features
+
 
 
 
